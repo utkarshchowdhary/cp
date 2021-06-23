@@ -30,7 +30,6 @@ public class ArrayListDS {
 
         System.out.println("Index of last occurrence of 2? " + indexOfLast);
 
-
         System.out.println("Size " + myArrayList.size());
         System.out.println("First " + myArrayList.get(0));
     }
