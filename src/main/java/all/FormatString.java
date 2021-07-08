@@ -1,4 +1,4 @@
-package main.java.basic;
+package main.java.all;
 
 public class FormatString {
     public static void main(String[] args) {

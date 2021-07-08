@@ -1,4 +1,4 @@
-package main.java.basic;
+package main.java.all;
 
 public class StringDT {
     public static void main(String[] args) {
