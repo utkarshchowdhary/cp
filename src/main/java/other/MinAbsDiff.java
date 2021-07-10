@@ -1,11 +1,11 @@
 package main.java.other;
 
 import java.util.Arrays;
-import java.util.Scanner;
+//import java.util.Scanner;
 
 public class MinAbsDiff {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+//        Scanner sc = new Scanner(System.in);
 
 //        System.out.print("enter arr length ");
 //        int n = sc.nextInt();
